@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-evilai",
+  "version": "0.0.1",
+  "description": "ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilai/eslint-config-evilai.git"
+  },
+  "author": "Maxim Vetrenko <vetrenko.maxim@gmail.com> (https://github.com/maxmert)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilai/eslint-config-evilai/issues"
+  },
+  "homepage": "https://github.com/evilai/eslint-config-evilai#readme",
+  "peerDependencies": {
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint": ">= 3"
+  }
+}
